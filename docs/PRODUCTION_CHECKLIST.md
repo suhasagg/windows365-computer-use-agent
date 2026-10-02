@@ -1,0 +1,18 @@
+# Production Checklist
+- [ ] Windows 365 for Agents tenant/pool
+- [ ] Entra/Intune/Conditional Access
+- [ ] MCP checkout/session lifecycle
+- [ ] initialize/initialized handshake
+- [ ] x-ms-computerId binding
+- [ ] tool contract tests
+- [ ] exact-action approvals
+- [ ] URL/application allowlists
+- [ ] DLP and clipboard policy
+- [ ] credential broker
+- [ ] durable run/task state
+- [ ] screenshot object storage/retention
+- [ ] trajectory/audit SIEM
+- [ ] human supervision/takeover
+- [ ] idempotency/reconciliation
+- [ ] OTel/evaluation
+- [ ] security/load/chaos tests
