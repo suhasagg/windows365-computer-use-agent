@@ -1,6 +1,6 @@
 # Windows 365 Computer-Use Agent
 
-A production-oriented Principal/Staff-level reference implementation for governed computer use on **Windows 365 for Agents**, using **LangGraph, MCP, Cloud PC isolation, policy, approvals, screenshot/trajectory history, UI verification, prompt-injection defenses, DLP, audit and human-takeover architecture**.
+A production-oriented reference implementation for governed computer use on **Windows 365 for Agents**, using **LangGraph, MCP, Cloud PC isolation, policy, approvals, screenshot/trajectory history, UI verification, prompt-injection defenses, DLP, audit and human-takeover architecture**.
 
 ## Architecture
 
